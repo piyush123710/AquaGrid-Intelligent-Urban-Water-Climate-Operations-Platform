@@ -1,0 +1,8 @@
+{
+  "name": "AquaGrid — Intelligent Urban Water & Climate Operations Platform",
+  "description": "Enterprise-grade water infrastructure intelligence and operations platform. Detect, prioritize, assign, resolve, verify, and predict urban water and climate incidents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
