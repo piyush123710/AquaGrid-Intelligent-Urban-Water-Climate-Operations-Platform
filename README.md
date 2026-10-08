@@ -14,6 +14,8 @@ Urban water loss, thermal pipe ruptures, and localized shortages are traditional
 $$\text{Detect} \longrightarrow \text{Understand} \longrightarrow \text{Prioritize} \longrightarrow \text{Assign} \longrightarrow \text{Resolve} \longrightarrow \text{Verify} \longrightarrow \text{Measure} \longrightarrow \text{Predict}$$
 
 ---
+Live Link - https://aquagrid-intelligent-urban-water-climate-operatio.ai.studio/
+---
 
 ## 🚀 Key Features
 
